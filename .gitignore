@@ -8,3 +8,5 @@ bower_components
 
 # Npm dependency
 node_modules
+
+dist
